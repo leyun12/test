@@ -4,4 +4,4 @@ git has a mutable index called stage.
 git tracks changes of files.
 AND simple.
 merge test
-merge test222
+merge test
