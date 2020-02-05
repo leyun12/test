@@ -5,3 +5,5 @@ git tracks changes of files.
 AND simple.
 merge test
 merge test
+merge test1
+merge test2
